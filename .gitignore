@@ -1,0 +1,4 @@
+__pycache__/
+*.csv
+debug_antwort_*.json
+.venv/
